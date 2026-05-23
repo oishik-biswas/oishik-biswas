@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oishik Biswas</h1>
 <h3 align="center">🎓 Final Year CSE Student @ KIIT | Backend Engineer | GATE Qualified</h3>
 
+<p align="center">
+  📄 <a href="https://drive.google.com/file/d/1uOBiSE5zNxLtl6sUCZRZo49cc0UgKgFe/view?usp=sharing" target="_blank"><b>View Resume</b></a>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -72,4 +76,4 @@
 
 ---
 
-⭐️ From oishik-biswas(https://github.com/oishik-biswas)
+⭐️ From oishik-biswas (https://github.com/oishik-biswas)
