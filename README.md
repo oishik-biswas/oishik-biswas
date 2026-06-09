@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 - 🎓 Final Year Computer Science Student at **KIIT University**
-- 📊 CGPA: **9.19**
+- 📊 CGPA: **9.23**
 - 🏆 Qualified **GATE** in 3rd Year
 - 💻 Backend-focused Full Stack Developer
 - ⚙️ Strong in Java, MERN Stack, and System Design
