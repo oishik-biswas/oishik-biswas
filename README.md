@@ -57,7 +57,7 @@
 
 ## 🚀 Highlights
 - 🏆 GATE Qualified (3rd Year)
-- 📈 Consistently High Academic Performance (CGPA: 9.19)
+- 📈 Consistently High Academic Performance (CGPA: 9.23)
 - ⚡ Strong problem-solving and backend engineering skills
 - 🛠️ Experience building scalable, real-world applications
 
