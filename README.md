@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Final Year CSE Student @ KIIT | Backend Engineer | GATE Qualified</h3>
 
 <p align="center">
-  📄 <a href="https://drive.google.com/file/d/1uOBiSE5zNxLtl6sUCZRZo49cc0UgKgFe/view?usp=sharing" target="_blank"><b>View Resume</b></a>
+  📄 <a href="https://drive.google.com/file/d/1TX9FYstmjTP6Mm4T_CNmHfcPm_FnEtyO/view?usp=sharing" target="_blank"><b>View Resume</b></a>
 </p>
 
 ---
